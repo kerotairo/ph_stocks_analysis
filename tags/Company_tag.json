@@ -1,0 +1,2270 @@
+[
+    {
+        "Company_Name": "ALLSHARES",
+        "Tags": [
+            "ALLSHARES",
+            "2GO Group, Inc."
+        ]
+    },
+    {
+        "Company_Name": "2GO",
+        "Tags": [
+            "2GO",
+            "2GO Group, Inc."
+        ]
+    },
+    {
+        "Company_Name": "HOUSE",
+        "Tags": [
+            "HOUSE",
+            "8990 Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "BRN",
+        "Tags": [
+            "BRN",
+            "A Brown Company, Inc."
+        ]
+    },
+    {
+        "Company_Name": "ANS",
+        "Tags": [
+            "ANS",
+            "A. Soriano Corporation"
+        ]
+    },
+    {
+        "Company_Name": "ABS",
+        "Tags": [
+            "ABS",
+            "ABS-CBN Corporation"
+        ]
+    },
+    {
+        "Company_Name": "ABSP",
+        "Tags": [
+            "ABSP",
+            "ABS-CBN Holdings Corporation"
+        ]
+    },
+    {
+        "Company_Name": "AGF",
+        "Tags": [
+            "AGF",
+            "AG Finance, Incorporated"
+        ]
+    },
+    {
+        "Company_Name": "APC",
+        "Tags": [
+            "APC",
+            "APC Group, Inc."
+        ]
+    },
+    {
+        "Company_Name": "ATN",
+        "Tags": [
+            "ATN",
+            "ATN Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "ATNB",
+        "Tags": [
+            "ATNB",
+            "ATN Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "ABA",
+        "Tags": [
+            "ABA",
+            "AbaCore Capital Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "AEV",
+        "Tags": [
+            "AEV",
+            "Aboitiz Equity Ventures, Inc."
+        ]
+    },
+    {
+        "Company_Name": "AP",
+        "Tags": [
+            "AP",
+            "Aboitiz Power Corporation"
+        ]
+    },
+    {
+        "Company_Name": "AR",
+        "Tags": [
+            "AR",
+            "Abra Mining and Industrial Corporation"
+        ]
+    },
+    {
+        "Company_Name": "ACE",
+        "Tags": [
+            "ACE",
+            "Acesite (Phils.) Hotel Corporation"
+        ]
+    },
+    {
+        "Company_Name": "ANI",
+        "Tags": [
+            "ANI",
+            "AgriNurture, Inc."
+        ]
+    },
+    {
+        "Company_Name": "AGI",
+        "Tags": [
+            "AGI",
+            "Alliance Global Group, Inc."
+        ]
+    },
+    {
+        "Company_Name": "FOOD",
+        "Tags": [
+            "FOOD",
+            "Alliance Select Foods International, Inc."
+        ]
+    },
+    {
+        "Company_Name": "ABC",
+        "Tags": [
+            "ABC",
+            "Allied Banking Corporation"
+        ]
+    },
+    {
+        "Company_Name": "ACR",
+        "Tags": [
+            "ACR",
+            "Alsons Consolidated Resources, Inc."
+        ]
+    },
+    {
+        "Company_Name": "DNA",
+        "Tags": [
+            "DNA",
+            "Philab Holdings Corp."
+        ]
+    },
+    {
+        "Company_Name": "ALHI",
+        "Tags": [
+            "ALHI",
+            "Anchor Land Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "APO",
+        "Tags": [
+            "APO",
+            "Anglo Philippine Holdings Corporation"
+        ]
+    },
+    {
+        "Company_Name": "APX",
+        "Tags": [
+            "APX",
+            "Apex Mining Co., Inc."
+        ]
+    },
+    {
+        "Company_Name": "APL",
+        "Tags": [
+            "APL",
+            "Apollo Global Capital, Inc."
+        ]
+    },
+    {
+        "Company_Name": "ARA",
+        "Tags": [
+            "ARA",
+            "Araneta Properties, Inc."
+        ]
+    },
+    {
+        "Company_Name": "ALCO",
+        "Tags": [
+            "ALCO",
+            "Arthaland Corporation"
+        ]
+    },
+    {
+        "Company_Name": "AAA",
+        "Tags": [
+            "AAA",
+            "Asia Amalgamated Holdings Corporation"
+        ]
+    },
+    {
+        "Company_Name": "AUB",
+        "Tags": [
+            "AUB",
+            "Asia United Bank Corporation"
+        ]
+    },
+    {
+        "Company_Name": "ASIA",
+        "Tags": [
+            "ASIA",
+            "AsiaTrust Development Bank, Inc."
+        ]
+    },
+    {
+        "Company_Name": "ABG",
+        "Tags": [
+            "ABG",
+            "Asiabest Group International Inc."
+        ]
+    },
+    {
+        "Company_Name": "ATI",
+        "Tags": [
+            "ATI",
+            "Asian Terminals, Inc."
+        ]
+    },
+    {
+        "Company_Name": "AT",
+        "Tags": [
+            "AT",
+            "Atlas Consolidated Mining and Development Corporation"
+        ]
+    },
+    {
+        "Company_Name": "AB",
+        "Tags": [
+            "AB",
+            "Atok-Big Wedge Co., Inc."
+        ]
+    },
+    {
+        "Company_Name": "AC",
+        "Tags": [
+            "AC",
+            "Ayala Corporation"
+        ]
+    },
+    {
+        "Company_Name": "ACPA",
+        "Tags": [
+            "ACPA",
+            "Ayala Corporation"
+        ]
+    },
+    {
+        "Company_Name": "ACPB1",
+        "Tags": [
+            "ACPB1",
+            "Ayala Corporation"
+        ]
+    },
+    {
+        "Company_Name": "ACPB2",
+        "Tags": [
+            "ACPB2",
+            "Ayala Corporation"
+        ]
+    },
+    {
+        "Company_Name": "ALI",
+        "Tags": [
+            "ALI",
+            "Ayala Land, Inc."
+        ]
+    },
+    {
+        "Company_Name": "ALCPB",
+        "Tags": [
+            "ALCPB",
+            "Arthaland Corporation"
+        ]
+    },
+    {
+        "Company_Name": "BLFI",
+        "Tags": [
+            "BLFI",
+            "BDO Leasing and Finance, Inc."
+        ]
+    },
+    {
+        "Company_Name": "BDO",
+        "Tags": [
+            "BDO",
+            "BDO Unibank, Inc."
+        ]
+    },
+    {
+        "Company_Name": "BH",
+        "Tags": [
+            "BH",
+            "BHI Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "BPI",
+        "Tags": [
+            "BPI",
+            "Bank of the Philippine Islands"
+        ]
+    },
+    {
+        "Company_Name": "BSC",
+        "Tags": [
+            "BSC",
+            "Basic Energy Corporation"
+        ]
+    },
+    {
+        "Company_Name": "BEL",
+        "Tags": [
+            "BEL",
+            "Belle Corporation"
+        ]
+    },
+    {
+        "Company_Name": "BC",
+        "Tags": [
+            "BC",
+            "Benguet Corporation"
+        ]
+    },
+    {
+        "Company_Name": "BCB",
+        "Tags": [
+            "BCB",
+            "Benguet Corporation"
+        ]
+    },
+    {
+        "Company_Name": "BCP",
+        "Tags": [
+            "BCP",
+            "Benguet Corporation"
+        ]
+    },
+    {
+        "Company_Name": "BCOR",
+        "Tags": [
+            "BCOR",
+            "Berjaya Philippines Inc."
+        ]
+    },
+    {
+        "Company_Name": "BLOOM",
+        "Tags": [
+            "BLOOM",
+            "Bloomberry Resorts Corporation"
+        ]
+    },
+    {
+        "Company_Name": "BMM",
+        "Tags": [
+            "BMM",
+            "Bogo Medellin Milling Company, Inc."
+        ]
+    },
+    {
+        "Company_Name": "BHI",
+        "Tags": [
+            "BHI",
+            "Boulevard Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "BKR",
+        "Tags": [
+            "BKR",
+            "Bright Kindle Resources & Investments Inc."
+        ]
+    },
+    {
+        "Company_Name": "COL",
+        "Tags": [
+            "COL",
+            "COL Financial Group, Inc."
+        ]
+    },
+    {
+        "Company_Name": "CAL",
+        "Tags": [
+            "CAL",
+            "Calata Corporation"
+        ]
+    },
+    {
+        "Company_Name": "CEB",
+        "Tags": [
+            "CEB",
+            "Cebu Air, Inc."
+        ]
+    },
+    {
+        "Company_Name": "CHI",
+        "Tags": [
+            "CHI",
+            "Cebu Holdings, Incorporated"
+        ]
+    },
+    {
+        "Company_Name": "CPV",
+        "Tags": [
+            "CPV",
+            "Cebu Property Ventures and Development Corporation"
+        ]
+    },
+    {
+        "Company_Name": "CPVB",
+        "Tags": [
+            "CPVB",
+            "Cebu Property Ventures and Development Corporation"
+        ]
+    },
+    {
+        "Company_Name": "CAT",
+        "Tags": [
+            "CAT",
+            "Central Azucarera de Tarlac, Inc."
+        ]
+    },
+    {
+        "Company_Name": "CEU",
+        "Tags": [
+            "CEU",
+            "Centro Escolar University"
+        ]
+    },
+    {
+        "Company_Name": "CNPF",
+        "Tags": [
+            "CNPF",
+            "Century Pacific Food, Inc."
+        ]
+    },
+    {
+        "Company_Name": "CPM",
+        "Tags": [
+            "CPM",
+            "Century Peak Metals Holdings Corporation"
+        ]
+    },
+    {
+        "Company_Name": "CPG",
+        "Tags": [
+            "CPG",
+            "Century Properties Group, Inc."
+        ]
+    },
+    {
+        "Company_Name": "CIP",
+        "Tags": [
+            "CIP",
+            "Chemical Industries of the Philippines, Inc."
+        ]
+    },
+    {
+        "Company_Name": "CHIB",
+        "Tags": [
+            "CHIB",
+            "China Banking Corporation"
+        ]
+    },
+    {
+        "Company_Name": "TECH",
+        "Tags": [
+            "TECH",
+            "Cirtek Holdings Philippines Corporation"
+        ]
+    },
+    {
+        "Company_Name": "LAND",
+        "Tags": [
+            "LAND",
+            "City & Land Developers, Incorporated"
+        ]
+    },
+    {
+        "Company_Name": "CDC",
+        "Tags": [
+            "CDC",
+            "Cityland Development Corporation"
+        ]
+    },
+    {
+        "Company_Name": "CSB",
+        "Tags": [
+            "CSB",
+            "Citystate Savings Bank, Inc."
+        ]
+    },
+    {
+        "Company_Name": "COAL",
+        "Tags": [
+            "COAL",
+            "Coal Asia Holdings Incorporated"
+        ]
+    },
+    {
+        "Company_Name": "CIC",
+        "Tags": [
+            "CIC",
+            "Concepcion Industrial Corporation"
+        ]
+    },
+    {
+        "Company_Name": "CA",
+        "Tags": [
+            "CA",
+            "Concrete Aggregates Corporation"
+        ]
+    },
+    {
+        "Company_Name": "CAB",
+        "Tags": [
+            "CAB",
+            "Concrete Aggregates Corporation"
+        ]
+    },
+    {
+        "Company_Name": "CHP",
+        "Tags": [
+            "CHP",
+            "Cemex Holdings Philippines, Inc."
+        ]
+    },
+    {
+        "Company_Name": "COSCO",
+        "Tags": [
+            "COSCO",
+            "Cosco Capital, Inc."
+        ]
+    },
+    {
+        "Company_Name": "CROWN",
+        "Tags": [
+            "CROWN",
+            "Crown Asia Chemicals Corporation"
+        ]
+    },
+    {
+        "Company_Name": "CEI",
+        "Tags": [
+            "CEI",
+            "Crown Equities, Inc."
+        ]
+    },
+    {
+        "Company_Name": "CYBR",
+        "Tags": [
+            "CYBR",
+            "Cyber Bay Corporation"
+        ]
+    },
+    {
+        "Company_Name": "DNL",
+        "Tags": [
+            "DNL",
+            "D&L Industries, Inc."
+        ]
+    },
+    {
+        "Company_Name": "DFNN",
+        "Tags": [
+            "DFNN",
+            "DFNN, Inc."
+        ]
+    },
+    {
+        "Company_Name": "DMC",
+        "Tags": [
+            "DMC",
+            "DMCI Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "DMCP",
+        "Tags": [
+            "DMCP",
+            "DMCI Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "DAVIN",
+        "Tags": [
+            "DAVIN",
+            "Da Vinci Capital Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "DMPL",
+        "Tags": [
+            "DMPL",
+            "Del Monte Pacific Limited"
+        ]
+    },
+    {
+        "Company_Name": "DWC",
+        "Tags": [
+            "DWC",
+            "Discovery World Corporation"
+        ]
+    },
+    {
+        "Company_Name": "DIZ",
+        "Tags": [
+            "DIZ",
+            "Dizon Copper-Silver Mines, Inc."
+        ]
+    },
+    {
+        "Company_Name": "DD",
+        "Tags": [
+            "DD",
+            "Doubledragon Properties Corp."
+        ]
+    },
+    {
+        "Company_Name": "DDPR",
+        "Tags": [
+            "DDPR",
+            "Doubledragon Properties Corp."
+        ]
+    },
+    {
+        "Company_Name": "EEI",
+        "Tags": [
+            "EEI",
+            "EEI Corporation"
+        ]
+    },
+    {
+        "Company_Name": "EW",
+        "Tags": [
+            "EW",
+            "East West Banking Corporation"
+        ]
+    },
+    {
+        "Company_Name": "ECP",
+        "Tags": [
+            "ECP",
+            "EasyCall Communications Philippines, Inc."
+        ]
+    },
+    {
+        "Company_Name": "EMP",
+        "Tags": [
+            "EMP",
+            "Emperador Inc."
+        ]
+    },
+    {
+        "Company_Name": "ELI",
+        "Tags": [
+            "ELI",
+            "Empire East Land Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "EDC",
+        "Tags": [
+            "EDC",
+            "Energy Development Corporation"
+        ]
+    },
+    {
+        "Company_Name": "EURO",
+        "Tags": [
+            "EURO",
+            "Euro-Med Laboratories Phil., Inc."
+        ]
+    },
+    {
+        "Company_Name": "EVER",
+        "Tags": [
+            "EVER",
+            "Ever-Gotesco Resources and Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "EIBA",
+        "Tags": [
+            "EIBA",
+            "Export and Industry Bank, Inc."
+        ]
+    },
+    {
+        "Company_Name": "EIBB",
+        "Tags": [
+            "EIBB",
+            "Export and Industry Bank, Inc."
+        ]
+    },
+    {
+        "Company_Name": "FJP",
+        "Tags": [
+            "FJP",
+            "F & J Prince Holdings Corporation"
+        ]
+    },
+    {
+        "Company_Name": "FJPB",
+        "Tags": [
+            "FJPB",
+            "F & J Prince Holdings Corporation"
+        ]
+    },
+    {
+        "Company_Name": "FEU",
+        "Tags": [
+            "FEU",
+            "Far Eastern University, Incorporated"
+        ]
+    },
+    {
+        "Company_Name": "FDC",
+        "Tags": [
+            "FDC",
+            "Filinvest Development Corporation"
+        ]
+    },
+    {
+        "Company_Name": "FLI",
+        "Tags": [
+            "FLI",
+            "Filinvest Land, Inc."
+        ]
+    },
+    {
+        "Company_Name": "FFI",
+        "Tags": [
+            "FFI",
+            "Filipino Fund, Inc."
+        ]
+    },
+    {
+        "Company_Name": "FYN",
+        "Tags": [
+            "FYN",
+            "Filsyn Corporation"
+        ]
+    },
+    {
+        "Company_Name": "FYNB",
+        "Tags": [
+            "FYNB",
+            "Filsyn Corporation"
+        ]
+    },
+    {
+        "Company_Name": "FAF",
+        "Tags": [
+            "FAF",
+            "First Abacus Financial Holdings Corporation"
+        ]
+    },
+    {
+        "Company_Name": "FGEN",
+        "Tags": [
+            "FGEN",
+            "First Gen Corporation"
+        ]
+    },
+    {
+        "Company_Name": "FGENF",
+        "Tags": [
+            "FGENF",
+            "First Gen Corporation"
+        ]
+    },
+    {
+        "Company_Name": "FGENG",
+        "Tags": [
+            "FGENG",
+            "First Gen Corporation"
+        ]
+    },
+    {
+        "Company_Name": "FMETF",
+        "Tags": [
+            "FMETF",
+            "First Metro Philippine Equity Exchange Traded Fund, Inc."
+        ]
+    },
+    {
+        "Company_Name": "FPH",
+        "Tags": [
+            "FPH",
+            "First Philippine Holdings Corporation"
+        ]
+    },
+    {
+        "Company_Name": "FPHP",
+        "Tags": [
+            "FPHP",
+            "First Philippine Holdings Corporation"
+        ]
+    },
+    {
+        "Company_Name": "FPHPC",
+        "Tags": [
+            "FPHPC",
+            "First Philippine Holdings Corporation"
+        ]
+    },
+    {
+        "Company_Name": "FPI",
+        "Tags": [
+            "FPI",
+            "Forum Pacific, Inc."
+        ]
+    },
+    {
+        "Company_Name": "GEO",
+        "Tags": [
+            "GEO",
+            "GEOGRACE Resources Philippines, Inc."
+        ]
+    },
+    {
+        "Company_Name": "GMAP",
+        "Tags": [
+            "GMAP",
+            "GMA Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "GMA7",
+        "Tags": [
+            "GMA7",
+            "GMA Network, Inc."
+        ]
+    },
+    {
+        "Company_Name": "GTCAP",
+        "Tags": [
+            "GTCAP",
+            "GT Capital Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "GSMI",
+        "Tags": [
+            "GSMI",
+            "Ginebra San Miguel, Inc."
+        ]
+    },
+    {
+        "Company_Name": "FNI",
+        "Tags": [
+            "FNI",
+            "Global Ferronickel Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "GERI",
+        "Tags": [
+            "GERI",
+            "Global-Estate Resorts, Inc."
+        ]
+    },
+    {
+        "Company_Name": "PORT",
+        "Tags": [
+            "PORT",
+            "Globalport 900, Inc."
+        ]
+    },
+    {
+        "Company_Name": "GLO",
+        "Tags": [
+            "GLO",
+            "Globe Telecom, Inc."
+        ]
+    },
+    {
+        "Company_Name": "GLOPA",
+        "Tags": [
+            "GLOPA",
+            "Globe Telecom, Inc."
+        ]
+    },
+    {
+        "Company_Name": "GLOPP",
+        "Tags": [
+            "GLOPP",
+            "Globe Telecom, Inc."
+        ]
+    },
+    {
+        "Company_Name": "HVN",
+        "Tags": [
+            "HVN",
+            "Golden Haven Memorial Park, Inc."
+        ]
+    },
+    {
+        "Company_Name": "GO",
+        "Tags": [
+            "GO",
+            "Gotesco Land, Inc."
+        ]
+    },
+    {
+        "Company_Name": "GOB",
+        "Tags": [
+            "GOB",
+            "Gotesco Land, Inc."
+        ]
+    },
+    {
+        "Company_Name": "GPH",
+        "Tags": [
+            "GPH",
+            "Grand Plaza Hotel Corporation"
+        ]
+    },
+    {
+        "Company_Name": "GREEN",
+        "Tags": [
+            "GREEN",
+            "Greenergy Holdings Incorporated"
+        ]
+    },
+    {
+        "Company_Name": "GTPPA",
+        "Tags": [
+            "GTPPA",
+            "GT Capital Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "GTPPB",
+        "Tags": [
+            "GTPPB",
+            "GT Capital Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "TUGS",
+        "Tags": [
+            "TUGS",
+            "Harbor Star Shipping Services, Inc."
+        ]
+    },
+    {
+        "Company_Name": "HLCM",
+        "Tags": [
+            "HLCM",
+            "Holcim Philippines, Inc."
+        ]
+    },
+    {
+        "Company_Name": "HI",
+        "Tags": [
+            "HI",
+            "House of Investments, Inc."
+        ]
+    },
+    {
+        "Company_Name": "I",
+        "Tags": [
+            "I",
+            "I-Remit, Inc."
+        ]
+    },
+    {
+        "Company_Name": "EG",
+        "Tags": [
+            "EG",
+            "IP E-Game Ventures, Inc."
+        ]
+    },
+    {
+        "Company_Name": "IPM",
+        "Tags": [
+            "IPM",
+            "IPM Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "IRC",
+        "Tags": [
+            "IRC",
+            "IRC Properties, Inc."
+        ]
+    },
+    {
+        "Company_Name": "ISM",
+        "Tags": [
+            "ISM",
+            "ISM Communications Corporation"
+        ]
+    },
+    {
+        "Company_Name": "IMP",
+        "Tags": [
+            "IMP",
+            "Imperial Resources, Inc."
+        ]
+    },
+    {
+        "Company_Name": "IMPB",
+        "Tags": [
+            "IMPB",
+            "Imperial Resources, Inc."
+        ]
+    },
+    {
+        "Company_Name": "IMI",
+        "Tags": [
+            "IMI",
+            "Integrated Micro-Electronics, Inc."
+        ]
+    },
+    {
+        "Company_Name": "ICT",
+        "Tags": [
+            "ICT",
+            "International Container Terminal Services, Inc."
+        ]
+    },
+    {
+        "Company_Name": "ION",
+        "Tags": [
+            "ION",
+            "Ionics, Inc."
+        ]
+    },
+    {
+        "Company_Name": "IS",
+        "Tags": [
+            "IS",
+            "Island Information & Technology, Inc."
+        ]
+    },
+    {
+        "Company_Name": "IDC",
+        "Tags": [
+            "IDC",
+            "Italpinas Development Corporation"
+        ]
+    },
+    {
+        "Company_Name": "JGS",
+        "Tags": [
+            "JGS",
+            "JG Summit Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "JAS",
+        "Tags": [
+            "JAS",
+            "Jackstones, Inc."
+        ]
+    },
+    {
+        "Company_Name": "JFC",
+        "Tags": [
+            "JFC",
+            "Jollibee Foods Corporation"
+        ]
+    },
+    {
+        "Company_Name": "JOH",
+        "Tags": [
+            "JOH",
+            "Jolliville Holdings Corporation"
+        ]
+    },
+    {
+        "Company_Name": "KPH",
+        "Tags": [
+            "KPH",
+            "Keppel Philippines Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "KPHB",
+        "Tags": [
+            "KPHB",
+            "Keppel Philippines Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "KEP",
+        "Tags": [
+            "KEP",
+            "Keppel Philippines Properties, Inc."
+        ]
+    },
+    {
+        "Company_Name": "LBC",
+        "Tags": [
+            "LBC",
+            "LBC Express Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "LMG",
+        "Tags": [
+            "LMG",
+            "LMG Chemicals Corporation"
+        ]
+    },
+    {
+        "Company_Name": "LTG",
+        "Tags": [
+            "LTG",
+            "LT Group, Inc."
+        ]
+    },
+    {
+        "Company_Name": "LR",
+        "Tags": [
+            "LR",
+            "Leisure & Resorts World Corporation"
+        ]
+    },
+    {
+        "Company_Name": "LRP",
+        "Tags": [
+            "LRP",
+            "Leisure & Resorts World Corporation"
+        ]
+    },
+    {
+        "Company_Name": "LRW",
+        "Tags": [
+            "LRW",
+            "Leisure & Resorts World Corporation"
+        ]
+    },
+    {
+        "Company_Name": "LC",
+        "Tags": [
+            "LC",
+            "Lepanto Consolidated Mining Company"
+        ]
+    },
+    {
+        "Company_Name": "LCB",
+        "Tags": [
+            "LCB",
+            "Lepanto Consolidated Mining Company"
+        ]
+    },
+    {
+        "Company_Name": "LFM",
+        "Tags": [
+            "LFM",
+            "Liberty Flour Mills, Inc."
+        ]
+    },
+    {
+        "Company_Name": "LIB",
+        "Tags": [
+            "LIB",
+            "Liberty Telecoms Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "LIHC",
+        "Tags": [
+            "LIHC",
+            "Lodestar Investment Holdings Corporation"
+        ]
+    },
+    {
+        "Company_Name": "LPZ",
+        "Tags": [
+            "LPZ",
+            "Lopez Holdings Corporation"
+        ]
+    },
+    {
+        "Company_Name": "LSC",
+        "Tags": [
+            "LSC",
+            "Lorenzo Shipping Corporation"
+        ]
+    },
+    {
+        "Company_Name": "MED",
+        "Tags": [
+            "MED",
+            "MEDCO Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "MJIC",
+        "Tags": [
+            "MJIC",
+            "MJC Investments Corporation"
+        ]
+    },
+    {
+        "Company_Name": "MRC",
+        "Tags": [
+            "MRC",
+            "MRC Allied, Inc."
+        ]
+    },
+    {
+        "Company_Name": "MHC",
+        "Tags": [
+            "MHC",
+            "Mabuhay Holdings Corporation"
+        ]
+    },
+    {
+        "Company_Name": "MVC",
+        "Tags": [
+            "MVC",
+            "Mabuhay Vinyl Corporation"
+        ]
+    },
+    {
+        "Company_Name": "MACAY",
+        "Tags": [
+            "MACAY",
+            "Macay Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "MAC",
+        "Tags": [
+            "MAC",
+            "MacroAsia Corporation"
+        ]
+    },
+    {
+        "Company_Name": "MFIN",
+        "Tags": [
+            "MFIN",
+            "Makati Finance Corporation"
+        ]
+    },
+    {
+        "Company_Name": "MBC",
+        "Tags": [
+            "MBC",
+            "Manila Broadcasting Company"
+        ]
+    },
+    {
+        "Company_Name": "MB",
+        "Tags": [
+            "MB",
+            "Manila Bulletin Publishing Corporation"
+        ]
+    },
+    {
+        "Company_Name": "MER",
+        "Tags": [
+            "MER",
+            "Manila Electric Company"
+        ]
+    },
+    {
+        "Company_Name": "MJC",
+        "Tags": [
+            "MJC",
+            "Manila Jockey Club, Inc."
+        ]
+    },
+    {
+        "Company_Name": "MA",
+        "Tags": [
+            "MA",
+            "Manila Mining Corporation"
+        ]
+    },
+    {
+        "Company_Name": "MAB",
+        "Tags": [
+            "MAB",
+            "Manila Mining Corporation"
+        ]
+    },
+    {
+        "Company_Name": "MWC",
+        "Tags": [
+            "MWC",
+            "Manila Water Company, Inc."
+        ]
+    },
+    {
+        "Company_Name": "MFC",
+        "Tags": [
+            "MFC",
+            "Manulife Financial Corporation"
+        ]
+    },
+    {
+        "Company_Name": "MARC",
+        "Tags": [
+            "MARC",
+            "Marcventures Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "MAXS",
+        "Tags": [
+            "MAXS",
+            "Max's Group, Inc."
+        ]
+    },
+    {
+        "Company_Name": "MWIDE",
+        "Tags": [
+            "MWIDE",
+            "Megawide Construction Corporation"
+        ]
+    },
+    {
+        "Company_Name": "MWP",
+        "Tags": [
+            "MWP",
+            "Megawide Construction Corporation"
+        ]
+    },
+    {
+        "Company_Name": "MEG",
+        "Tags": [
+            "MEG",
+            "Megaworld Corporation"
+        ]
+    },
+    {
+        "Company_Name": "MCP",
+        "Tags": [
+            "MCP",
+            "Melco Crown (Philippines) Resorts Corporation"
+        ]
+    },
+    {
+        "Company_Name": "MAH",
+        "Tags": [
+            "MAH",
+            "Metro Alliance Holdings & Equities Corp."
+        ]
+    },
+    {
+        "Company_Name": "MAHB",
+        "Tags": [
+            "MAHB",
+            "Metro Alliance Holdings & Equities Corp."
+        ]
+    },
+    {
+        "Company_Name": "MGH",
+        "Tags": [
+            "MGH",
+            "Metro Global Holdings Corporation"
+        ]
+    },
+    {
+        "Company_Name": "MPI",
+        "Tags": [
+            "MPI",
+            "Metro Pacific Investments Corporation"
+        ]
+    },
+    {
+        "Company_Name": "MRSGI",
+        "Tags": [
+            "MRSGI",
+            "Metro Retail Stores Group, Inc."
+        ]
+    },
+    {
+        "Company_Name": "MBT",
+        "Tags": [
+            "MBT",
+            "Metropolitan Bank & Trust Company"
+        ]
+    },
+    {
+        "Company_Name": "MG",
+        "Tags": [
+            "MG",
+            "Millennium Global Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "NRCP",
+        "Tags": [
+            "NRCP",
+            "National Reinsurance Corporation of the Philippines"
+        ]
+    },
+    {
+        "Company_Name": "NI",
+        "Tags": [
+            "NI",
+            "NiHAO Mineral Resources International, Inc."
+        ]
+    },
+    {
+        "Company_Name": "NIKL",
+        "Tags": [
+            "NIKL",
+            "Nickel Asia Corporation"
+        ]
+    },
+    {
+        "Company_Name": "NOW",
+        "Tags": [
+            "NOW",
+            "Now Corporation"
+        ]
+    },
+    {
+        "Company_Name": "OM",
+        "Tags": [
+            "OM",
+            "Omico Corporation"
+        ]
+    },
+    {
+        "Company_Name": "ORE",
+        "Tags": [
+            "ORE",
+            "Oriental Peninsula Resources Group, Inc."
+        ]
+    },
+    {
+        "Company_Name": "OPM",
+        "Tags": [
+            "OPM",
+            "Oriental Petroleum and Minerals Corporation"
+        ]
+    },
+    {
+        "Company_Name": "OPMB",
+        "Tags": [
+            "OPMB",
+            "Oriental Petroleum and Minerals Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PAL",
+        "Tags": [
+            "PAL",
+            "PAL Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "PCP",
+        "Tags": [
+            "PCP",
+            "PICOP Resources, Inc."
+        ]
+    },
+    {
+        "Company_Name": "TFC",
+        "Tags": [
+            "TFC",
+            "PTFC Redevelopment Corporation"
+        ]
+    },
+    {
+        "Company_Name": "LOTO",
+        "Tags": [
+            "LOTO",
+            "Pacific Online Systems Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PA",
+        "Tags": [
+            "PA",
+            "Pacifica, Inc."
+        ]
+    },
+    {
+        "Company_Name": "PMPC",
+        "Tags": [
+            "PMPC",
+            "Panasonic Manufacturing Philippines Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PAX",
+        "Tags": [
+            "PAX",
+            "Paxys, Inc."
+        ]
+    },
+    {
+        "Company_Name": "PIP",
+        "Tags": [
+            "PIP",
+            "Pepsi-Cola Products Philippines, Inc."
+        ]
+    },
+    {
+        "Company_Name": "PERC",
+        "Tags": [
+            "PERC",
+            "PetroEnergy Resources Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PCOR",
+        "Tags": [
+            "PCOR",
+            "Petron Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PRF2A",
+        "Tags": [
+            "PRF2A",
+            "Petron Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PRF2B",
+        "Tags": [
+            "PRF2B",
+            "Petron Corporation"
+        ]
+    },
+    {
+        "Company_Name": "WEB",
+        "Tags": [
+            "WEB",
+            "PhilWeb Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PHC",
+        "Tags": [
+            "PHC",
+            "Philcomsat Holdings Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PX",
+        "Tags": [
+            "PX",
+            "Philex Mining Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PXP",
+        "Tags": [
+            "PXP",
+            "Philex Petroleum Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PBC",
+        "Tags": [
+            "PBC",
+            "Philippine Bank of Communications"
+        ]
+    },
+    {
+        "Company_Name": "PBB",
+        "Tags": [
+            "PBB",
+            "Philippine Business Bank"
+        ]
+    },
+    {
+        "Company_Name": "PHES",
+        "Tags": [
+            "PHES",
+            "Philippine Estates Corporation"
+        ]
+    },
+    {
+        "Company_Name": "H2O",
+        "Tags": [
+            "H2O",
+            "Philippine H2O Ventures Corp."
+        ]
+    },
+    {
+        "Company_Name": "TEL",
+        "Tags": [
+            "TEL",
+            "Philippine Long Distance Telephone Company"
+        ]
+    },
+    {
+        "Company_Name": "TLII",
+        "Tags": [
+            "TLII",
+            "Philippine Long Distance Telephone Company"
+        ]
+    },
+    {
+        "Company_Name": "PNB",
+        "Tags": [
+            "PNB",
+            "Philippine National Bank"
+        ]
+    },
+    {
+        "Company_Name": "PNC",
+        "Tags": [
+            "PNC",
+            "Philippine National Construction Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PRC",
+        "Tags": [
+            "PRC",
+            "Philippine Racing Club, Inc."
+        ]
+    },
+    {
+        "Company_Name": "RLT",
+        "Tags": [
+            "RLT",
+            "Philippine Realty and Holdings Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PSB",
+        "Tags": [
+            "PSB",
+            "Philippine Savings Bank"
+        ]
+    },
+    {
+        "Company_Name": "SEVN",
+        "Tags": [
+            "SEVN",
+            "Philippine Seven Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PTT",
+        "Tags": [
+            "PTT",
+            "Philippine Telegraph and Telephone Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PTC",
+        "Tags": [
+            "PTC",
+            "Philippine Trust Company"
+        ]
+    },
+    {
+        "Company_Name": "PHN",
+        "Tags": [
+            "PHN",
+            "Phinma Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PHEN",
+        "Tags": [
+            "PHEN",
+            "PHINMA Energy Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PNX",
+        "Tags": [
+            "PNX",
+            "Phoenix Petroleum Philippines, Inc."
+        ]
+    },
+    {
+        "Company_Name": "PNX3A",
+        "Tags": [
+            "PNX3A",
+            "Phoenix Petroleum Philippines, Inc."
+        ]
+    },
+    {
+        "Company_Name": "PNX3B",
+        "Tags": [
+            "PNX3B",
+            "Phoenix Petroleum Philippines, Inc."
+        ]
+    },
+    {
+        "Company_Name": "PNXP",
+        "Tags": [
+            "PNXP",
+            "Phoenix Petroleum Philippines, Inc."
+        ]
+    },
+    {
+        "Company_Name": "PSPC",
+        "Tags": [
+            "PSPC",
+            "Phoenix Semiconductor Philippines Corp."
+        ]
+    },
+    {
+        "Company_Name": "PHA",
+        "Tags": [
+            "PHA",
+            "Premiere Horizon Alliance Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PLC",
+        "Tags": [
+            "PLC",
+            "Premium Leisure Corp."
+        ]
+    },
+    {
+        "Company_Name": "PRIM",
+        "Tags": [
+            "PRIM",
+            "Prime Media Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "POPI",
+        "Tags": [
+            "POPI",
+            "Prime Orion Philippines, Inc."
+        ]
+    },
+    {
+        "Company_Name": "PMT",
+        "Tags": [
+            "PMT",
+            "Primetown Property Group, Inc."
+        ]
+    },
+    {
+        "Company_Name": "PRMX",
+        "Tags": [
+            "PRMX",
+            "Primex Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PPC",
+        "Tags": [
+            "PPC",
+            "Pryce Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PGOLD",
+        "Tags": [
+            "PGOLD",
+            "Puregold Price Club, Inc."
+        ]
+    },
+    {
+        "Company_Name": "RFM",
+        "Tags": [
+            "RFM",
+            "RFM Corporation"
+        ]
+    },
+    {
+        "Company_Name": "LRI",
+        "Tags": [
+            "LRI",
+            "Republic Cement & Building Materials, Inc."
+        ]
+    },
+    {
+        "Company_Name": "REG",
+        "Tags": [
+            "REG",
+            "Republic Glass Holdings Corporation"
+        ]
+    },
+    {
+        "Company_Name": "RCB",
+        "Tags": [
+            "RCB",
+            "Rizal Commercial Banking Corporation"
+        ]
+    },
+    {
+        "Company_Name": "RLC",
+        "Tags": [
+            "RLC",
+            "Robinsons Land Corporation"
+        ]
+    },
+    {
+        "Company_Name": "RRHI",
+        "Tags": [
+            "RRHI",
+            "Robinsons Retail Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "ROCK",
+        "Tags": [
+            "ROCK",
+            "Rockwell Land Corporation"
+        ]
+    },
+    {
+        "Company_Name": "ROX",
+        "Tags": [
+            "ROX",
+            "Roxas Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "RCI",
+        "Tags": [
+            "RCI",
+            "Roxas and Company, Inc."
+        ]
+    },
+    {
+        "Company_Name": "SBS",
+        "Tags": [
+            "SBS",
+            "SBS Philippines Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SM",
+        "Tags": [
+            "SM",
+            "SM Investments Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SHLPH",
+        "Tags": [
+            "SHLPH",
+            "PILIPINAS SHELL PETROLEUM CORPORATION"
+        ]
+    },
+    {
+        "Company_Name": "SMPH",
+        "Tags": [
+            "SMPH",
+            "SM Prime Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "SOC",
+        "Tags": [
+            "SOC",
+            "SOCResources, Inc."
+        ]
+    },
+    {
+        "Company_Name": "SPC",
+        "Tags": [
+            "SPC",
+            "SPC Power Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SSI",
+        "Tags": [
+            "SSI",
+            "SSI Group, Inc."
+        ]
+    },
+    {
+        "Company_Name": "STI",
+        "Tags": [
+            "STI",
+            "STI Education Systems Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "SMC",
+        "Tags": [
+            "SMC",
+            "San Miguel Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SMC2A",
+        "Tags": [
+            "SMC2A",
+            "San Miguel Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SMC2B",
+        "Tags": [
+            "SMC2B",
+            "San Miguel Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SMC2C",
+        "Tags": [
+            "SMC2C",
+            "San Miguel Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SMC2D",
+        "Tags": [
+            "SMC2D",
+            "San Miguel Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SMC2E",
+        "Tags": [
+            "SMC2E",
+            "San Miguel Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SMC2F",
+        "Tags": [
+            "SMC2F",
+            "San Miguel Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SMC2G",
+        "Tags": [
+            "SMC2G",
+            "San Miguel Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SMC2H",
+        "Tags": [
+            "SMC2H",
+            "San Miguel Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SMC2I",
+        "Tags": [
+            "SMC2I",
+            "San Miguel Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SMCP1",
+        "Tags": [
+            "SMCP1",
+            "San Miguel Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PF",
+        "Tags": [
+            "PF",
+            "San Miguel Pure Foods Company, Inc."
+        ]
+    },
+    {
+        "Company_Name": "PFP",
+        "Tags": [
+            "PFP",
+            "San Miguel Pure Foods Company, Inc."
+        ]
+    },
+    {
+        "Company_Name": "PFP2",
+        "Tags": [
+            "PFP2",
+            "San Miguel Pure Foods Company, Inc."
+        ]
+    },
+    {
+        "Company_Name": "PIZZA",
+        "Tags": [
+            "PIZZA",
+            "SHAKEY'S PIZZA ASIA VENTURES, INC."
+        ]
+    },
+    {
+        "Company_Name": "SPM",
+        "Tags": [
+            "SPM",
+            "Seafront Resources Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SECB",
+        "Tags": [
+            "SECB",
+            "Security Bank Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SCC",
+        "Tags": [
+            "SCC",
+            "Semirara Mining and Power Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SHNG",
+        "Tags": [
+            "SHNG",
+            "Shang Properties, Inc."
+        ]
+    },
+    {
+        "Company_Name": "SGI",
+        "Tags": [
+            "SGI",
+            "Solid Group, Inc."
+        ]
+    },
+    {
+        "Company_Name": "SPH",
+        "Tags": [
+            "SPH",
+            "Splash Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SLI",
+        "Tags": [
+            "SLI",
+            "Sta. Lucia Land, Inc."
+        ]
+    },
+    {
+        "Company_Name": "STR",
+        "Tags": [
+            "STR",
+            "Starmalls, Inc."
+        ]
+    },
+    {
+        "Company_Name": "STN",
+        "Tags": [
+            "STN",
+            "Steniel Manufacturing Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SLF",
+        "Tags": [
+            "SLF",
+            "Sun Life Financial Inc."
+        ]
+    },
+    {
+        "Company_Name": "SUN",
+        "Tags": [
+            "SUN",
+            "Suntrust Home Developers, Inc."
+        ]
+    },
+    {
+        "Company_Name": "SRDC",
+        "Tags": [
+            "SRDC",
+            "Supercity Realty Development Corporation"
+        ]
+    },
+    {
+        "Company_Name": "SFI",
+        "Tags": [
+            "SFI",
+            "Swift Foods, Inc."
+        ]
+    },
+    {
+        "Company_Name": "SFIP",
+        "Tags": [
+            "SFIP",
+            "Swift Foods, Inc."
+        ]
+    },
+    {
+        "Company_Name": "SGP",
+        "Tags": [
+            "SGP",
+            "Synergy Grid & Development Phils., Inc."
+        ]
+    },
+    {
+        "Company_Name": "T",
+        "Tags": [
+            "T",
+            "TKC Steel Corporation"
+        ]
+    },
+    {
+        "Company_Name": "PSE",
+        "Tags": [
+            "PSE",
+            "The Philippine Stock Exchange, Inc."
+        ]
+    },
+    {
+        "Company_Name": "OV",
+        "Tags": [
+            "OV",
+            "The Philodrill Corporation"
+        ]
+    },
+    {
+        "Company_Name": "TFHI",
+        "Tags": [
+            "TFHI",
+            "Top Frontier Investment Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "TAPET",
+        "Tags": [
+            "TAPET",
+            "Trans-Asia Petroleum Corporation"
+        ]
+    },
+    {
+        "Company_Name": "TBGI",
+        "Tags": [
+            "TBGI",
+            "Transpacific Broadband Group Int`l. Inc."
+        ]
+    },
+    {
+        "Company_Name": "RWM",
+        "Tags": [
+            "RWM",
+            "Travellers International Hotel Group, Inc."
+        ]
+    },
+    {
+        "Company_Name": "UNI",
+        "Tags": [
+            "UNI",
+            "Unioil Resources & Holdings Company, Inc."
+        ]
+    },
+    {
+        "Company_Name": "UBP",
+        "Tags": [
+            "UBP",
+            "Union Bank of the Philippines, Inc."
+        ]
+    },
+    {
+        "Company_Name": "UPM",
+        "Tags": [
+            "UPM",
+            "United Paragon Mining Corporation"
+        ]
+    },
+    {
+        "Company_Name": "URC",
+        "Tags": [
+            "URC",
+            "Universal Robina Corporation"
+        ]
+    },
+    {
+        "Company_Name": "UW",
+        "Tags": [
+            "UW",
+            "Uniwide Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "V",
+        "Tags": [
+            "V",
+            "Vantage Equities, Inc."
+        ]
+    },
+    {
+        "Company_Name": "VMC",
+        "Tags": [
+            "VMC",
+            "Victorias Milling Company, Inc."
+        ]
+    },
+    {
+        "Company_Name": "VLL",
+        "Tags": [
+            "VLL",
+            "Vista Land & Lifescapes, Inc."
+        ]
+    },
+    {
+        "Company_Name": "VITA",
+        "Tags": [
+            "VITA",
+            "Vitarich Corporation"
+        ]
+    },
+    {
+        "Company_Name": "VVT",
+        "Tags": [
+            "VVT",
+            "Vivant Corporation"
+        ]
+    },
+    {
+        "Company_Name": "VUL",
+        "Tags": [
+            "VUL",
+            "Vulcan Industrial & Mining Corporation"
+        ]
+    },
+    {
+        "Company_Name": "WPI",
+        "Tags": [
+            "WPI",
+            "Waterfront Philippines, Incorporated"
+        ]
+    },
+    {
+        "Company_Name": "WIN",
+        "Tags": [
+            "WIN",
+            "Wellex Industries, Incorporated"
+        ]
+    },
+    {
+        "Company_Name": "X",
+        "Tags": [
+            "X",
+            "Xurpas Inc."
+        ]
+    },
+    {
+        "Company_Name": "YEHEY",
+        "Tags": [
+            "YEHEY",
+            "YEHEY! Corporation"
+        ]
+    },
+    {
+        "Company_Name": "ZHI",
+        "Tags": [
+            "ZHI",
+            "Zeus Holdings, Inc."
+        ]
+    },
+    {
+        "Company_Name": "IPO",
+        "Tags": [
+            "IPO",
+            "iPeople, inc."
+        ]
+    }
+]
